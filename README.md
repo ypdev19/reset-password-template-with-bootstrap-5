@@ -6,7 +6,7 @@ Some information about this template
 - [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - 2 Forms included (Reset password and recover username)
 - Verified by W3C (HTML and CSS)
-- Responsive ([mobile-friendly test]())
+- Responsive ([mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=rpfkdFbeXRpfjybSyZ0oDA))
 - Easy to use
 - Nice and simple design
 
@@ -16,11 +16,11 @@ You just need to download or clone this repo and that's it! Ready to use as you 
 
 Demo
 --------------------------------
-[See Demo]()
+[See Demo](https://ypetrilli.github.io/reset-password-template-with-bootstrap-5/)
 
 Bug Report :bug:
 --------------------------------
-If you found a bug please create an issue [here]() and let's fix it to make this a better template
+If you found a bug please create an issue [here](https://github.com/ypetrilli/reset-password-template-with-bootstrap-5/issues) and let's fix it to make this a better template
 
 Looking for more? Here are other free resources for you!
 --------------------------------
