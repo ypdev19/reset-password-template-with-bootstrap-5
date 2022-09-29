@@ -39,8 +39,3 @@ Credits
 Licence
 --------------------------------
 [MTI Licence](http://opensource.org/licenses/MIT)
-
-Coindrop to me
---------------------------------
-Thank you for your support :slightly_smiling_face:
-https://coindrop.to/ypdev19
