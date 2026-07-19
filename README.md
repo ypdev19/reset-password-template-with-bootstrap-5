@@ -3,7 +3,7 @@ Reset password and recover username forms made with [Bootstrap](https://getboots
 
 Some information about this template
 --------------------------------
-- [Bootstrap 5.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - 2 Forms included (Reset password and recover username)
 - Verified by W3C (HTML and CSS)
 - Responsive ([mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=rpfkdFbeXRpfjybSyZ0oDA))
