@@ -1,19 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Reset Password Template</title>
+	<title>Recover Username Template</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	<link rel="icon" href="img/forgot-password.ico"/>
 	
 	<meta name="author" content="Yuli Petrilli">
-    <meta name="description" content="Free recover password template made with Bootstrap 5">
-	
+    <meta name="description" content="Free recover username template made with Bootstrap 5">
+
 	<!-- / Bootstrap Core -->	
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-	<!-- / FontAwesome -->	
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.2.0/css/all.min.css">
 	<!-- / Custom style -->	
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
@@ -24,60 +22,29 @@
 		<div class="form-wrapper">
 			<div class="form-header">
 				<span class="form-title">
-					Reset Your Password
+					Recover Username
+				</span>
+				<span class="form-subtitle">
+					An email will be sent to you with the username
 				</span>
 			</div>
 
-			<form class="form-content">				
+			<form class="form-content">
 				<div class="input-wrapper">
-					<input class="form-control" type="password" placeholder="New Password" id="password" required>
-					<span class="form-control-focus"></span>
-					<span class="password-toggle-icon"
-						role="button"
-						tabindex="0"
-						aria-label="Show password"
-						aria-pressed="false"
-						onclick="passwordVisibility(this, 'password', 'showPass', 'hidePass');"
-						onkeydown="if(event.key === 'Enter' || event.key === ' '){ event.preventDefault(); passwordVisibility(this, 'password', 'showPass', 'hidePass'); }">
-						<i class="fa-solid fa-eye" id="showPass"></i>
-						<i class="fa-solid fa-eye-slash d-none" id="hidePass"></i>
-					</span>
+					<label class="txt-style1">Email Address</label>
+					<input class="input-style" type="email" name="email" required>
+					<span class="input-style-focus"></span>
 				</div>
-
-				<div class="input-wrapper">
-					<input class="form-control" type="password" placeholder="Repeat Password" id="repeatPassword" required>
-					<span class="form-control-focus"></span>
-					<span class="password-toggle-icon"
-						role="button"
-						tabindex="0"
-						aria-label="Show password"
-						aria-pressed="false"
-						onclick="passwordVisibility(this, 'repeatPassword', 'showRepeatPass', 'hideRepeatPass');"
-						onkeydown="if(event.key === 'Enter' || event.key === ' '){ event.preventDefault(); passwordVisibility(this, 'repeatPassword', 'showRepeatPass', 'hideRepeatPass'); }">
-						<i class="fa-solid fa-eye" id="showRepeatPass"></i>
-						<i class="fa-solid fa-eye-slash d-none" id="hideRepeatPass"></i>
-					</span>
-				</div>
-			 
+				
 				<button class="button-style w-100">
-					Save
+					Recover
 				</button>
-
-				<div class="link-wrapper mt-4">
-					<a href="recover_username.html" class="txt-style2">
-						<strong>Forgot your username?</strong>
-					</a>
-				</div>
 				
 				<p class="txt-style1 mt-5">Nothing lost? <a class="txt-style2" href="#"><strong>Go back to Login</strong></a></p>
 			</form>
 		</div>
 	</div>
 </main>
-
-<!-- / Bootstrap Bundle (includes Popper) -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
-<script src="js/password-visibility.js"></script>
-
+	
 </body>
 </html>
