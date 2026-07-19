@@ -3,7 +3,7 @@ Reset password and recover username forms made with [Bootstrap](https://getboots
 
 Some information about this template
 --------------------------------
-- [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [Bootstrap 5.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - 2 Forms included (Reset password and recover username)
 - Verified by W3C (HTML and CSS)
 - Responsive ([mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=rpfkdFbeXRpfjybSyZ0oDA))
@@ -16,17 +16,17 @@ You just need to download or clone this repo and that's it! Ready to use as you 
 
 Demo
 --------------------------------
-[See Demo](https://ypetrilli.github.io/reset-password-template-with-bootstrap-5/)
+[See Demo](https://ypdev19.github.io/reset-password-template-with-bootstrap-5/)
 
 Bug Report :bug:
 --------------------------------
-If you found a bug please create an issue [here](https://github.com/ypetrilli/reset-password-template-with-bootstrap-5/issues) and let's fix it to make this a better template
+If you found a bug please create an issue [here](https://github.com/ypdev19/reset-password-template-with-bootstrap-5/issues) and let's fix it to make this a better template
 
 Looking for more? Here are other free resources for you!
 --------------------------------
-- [Contact form with Bootstrap 5](https://ypetrilli.github.io/contact-template-with-bootstrap-5/)
-- [Login form with Bootstrap 5](https://ypetrilli.github.io/login-template-with-bootstrap-5/)
-- [Registration form with Bootstrap 5](https://ypetrilli.github.io/registration-form-with-bootstrap-5/)
+- [Contact form with Bootstrap 5](https://ypdev19.github.io/contact-template-with-bootstrap-5/)
+- [Login form with Bootstrap 5](https://ypdev19.github.io/login-template-with-bootstrap-5/)
+- [Registration form with Bootstrap 5](https://ypdev19.github.io/registration-form-with-bootstrap-5/)
 
 Credits
 --------------------------------
